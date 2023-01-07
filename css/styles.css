@@ -84,6 +84,7 @@ header {
 .header__lil-check {
     padding: 10px;
     cursor: pointer;
+    transition: 0.3s;
 }
 .header__lil-check--blue {
     padding: 0;
